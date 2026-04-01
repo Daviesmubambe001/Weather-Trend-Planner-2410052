@@ -1,0 +1,11 @@
+.insight-panel {
+  background: #e8f4fd;
+  border: 1px solid #b6d4fe;
+  padding: 20px;
+  border-radius: var(--border-radius);
+}
+
+.insight-panel h3 {
+  margin-top: 0;
+  color: #084298;
+}
